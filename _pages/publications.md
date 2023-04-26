@@ -41,10 +41,3 @@ K. Chang, Q. Tang, H. Xin, “Balanced and Symmetric Design of Active Composite 
 Qi Tang, Fan-Yi Meng, Qun Wu, and Jong-Chul Lee, “A balanced composite backward and forward compact waveguide based on resonant metamaterials”, Journal of Applied Physics 109, 07A319, 2011.
 
 Qi Tang, Fan-Yi Meng, Kuang Zhang, Qun Wu, and Le-Wei Li, “Polarization characteristics of the wave reflection at the interface of vacuum and Faraday Chiral Medium”, Acta Physica Sinica, Vol.60, No.1, Jan. 2011.
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
