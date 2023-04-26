@@ -8,7 +8,7 @@ author_profile: true
 Connectivity
 ---
 
-B. H. McGuyer,Q. Tang, “Connection between antennas, beam steering, and the Moiré effect”, under review.
+B. H. McGuyer,Q. Tang, “Connection between antennas, beam steering, and the Moiré effect”, Physical Review Applied 17 (3), 034008.
 
 Q. Tang, B. H. McGuyer, E. Booen, S. Saraswat, F. Tabatabai, H. Bolandhemmat, C. Von Badinski, and W. H. Theunissen, “Flat-Panel Mechanical Beam Steerable Array Antennas with In-Plane Rotations: Theory, Design and Low-Cost Implementation”, accepted by IEEE Open Journal of Antennas and Propagation, Feb. 2021
 
