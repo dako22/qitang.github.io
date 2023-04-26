@@ -20,7 +20,7 @@ Q. Tang, H Zhou, A Tiwari, J Stewart, Q. Qu, D Zhang, H Hemmati, “Experimental
 
 Y. Yan, P. Bondalapati, A. Tiwari, C. Xia, A. Cashion, D. Zhang, Q. Tang, “11-Gbps broadband modem-agnostic line-of-sight MIMO over the range of 13 km”, IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, 2018. 
 
-Academic research
+Applied Electromagnetics
 ---
 Q. Tang, H. Xin, "Stability Analysis of Non-Foster Circuit Using Normalized Determinant Function," in IEEE Transactions on Microwave Theory and Techniques, vol.PP, no.99, pp.1-9.
 
