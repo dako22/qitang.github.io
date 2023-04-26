@@ -48,7 +48,3 @@ Qi Tang, Fan-Yi Meng, Kuang Zhang, Qun Wu, and Le-Wei Li, “Polarization charac
 {% endif %}
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
